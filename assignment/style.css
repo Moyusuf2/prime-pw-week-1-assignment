@@ -1,11 +1,55 @@
-/* Give your page a fun background color */
+body{
+    background-color: darkseagreen;
+}
 
-/* Make the header and footer a different color from the background */
+h1{
+    color: brown;
+    text-align: center;
+    border-top: 15px;
+    border-bottom: 15px;
+    background-color: rgb(211, 161, 121);
+    margin: 0%;
+    padding: 20px;
 
-/* Align the h1 containing your name in the center of the header*/
+}
 
-/* Make your p tag a different color and italic */
+img{
+    border: 10px solid;
+    max-height: 150px;
+    max-width: 150px;
+    border-radius: 50%;
+    width: 80%;
+}
 
-/* Put a border around your image */
+p{
+    background-color: rgb(211, 161, 121);
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: brown;
+    border-top: 15px;
+    border-bottom: 15px;
+    padding: 20px;
+    font-style: italic;
+}
+li{
+    font-family: Arial, Helvetica, sans-serif;
+}
 
-/* Change the font-family of your list */
+
+
+
+
+
+/* Give your page a fun background color////done */
+
+/* Make the header and footer a different color from the background //done*/
+
+/* Align the h1 containing your name in the center of the header //done*/
+
+/* Make your p tag a different color and italic // done*/
+
+/* Put a border around your image //done*/
+
+/* Change the font-family of your list //done*/
